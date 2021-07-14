@@ -1,0 +1,14 @@
+nav{
+    display: block;
+}
+
+body{
+    line-height: 1; /*the line height*/
+}
+
+body{
+    background: #2c4d54;
+    color: rgb(175 168 168);
+    font: 300;
+    /* font-family:Arial, Helvetica, sans-serif; */
+}
